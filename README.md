@@ -41,12 +41,3 @@ x2 = 1.0
 - Nessuna libreria esterna richiesta (utilizza solo la libreria standard `os`).
 
 ```
-
-### Spiegazione dei contenuti del `README.md`:
-1. **Introduzione**: Descrizione generale dello script.
-2. **Funzionalità**: Spiegazione delle funzionalità principali (equazioni di primo e secondo grado).
-3. **Come Usare**: Istruzioni passo-passo su come utilizzare il programma.
-4. **Esempio di Utilizzo**: Un esempio pratico di esecuzione del programma.
-5. **Requisiti**: Dettagli su cosa serve per eseguire il programma.
-6. **Contributi**: Istruzioni su come contribuire al progetto, se desiderato.
-7. **Licenza**: Dettagli sulla licenza, se applicabile.
