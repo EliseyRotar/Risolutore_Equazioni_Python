@@ -13,9 +13,7 @@ Questo script Python permette di risolvere equazioni algebriche di primo e secon
 ## Come Usare
 
 1. Clona questo repository o scarica il file `risolutore_equazioni.py`.
-2. Esegui il programma con Python:
-   ```bash
-   python risolutore_equazioni.py
+2. Esegui il programma con Python
    ```
 3. Inserisci i coefficienti `a`, `b` e `c` quando richiesto.
 4. Il programma calcolerà le soluzioni dell'equazione e ti permetterà di risolverne altre o di uscire digitando "exit".
